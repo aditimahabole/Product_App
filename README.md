@@ -1,5 +1,7 @@
 # Getting Started with Create React App
-Created a very basic React Project Shopify where products have been fetched through dummy product API and I have applied sorting , pagination , animation and styled components are used .
+Created a very basic React Project Shopify where products have been fetched through dummy product API and I have applied sorting , pagination , animation and styled components are used . Deployed It on Vercel.
+# Link 
+https://products-app-react-shopify-hnqxlxplz-aditimahabole.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
