@@ -1,7 +1,9 @@
 # Getting Started with Create React App
 Created a very basic React Project Shopify where products have been fetched through dummy product API and I have applied sorting , pagination , animation and styled components are used . Deployed It on Vercel.
+Made by Aditi Mahabole
 # Link 
 https://products-app-react-shopify-hnqxlxplz-aditimahabole.vercel.app/
+
 <img width="960" alt="image" src="https://github.com/aditimahabole/products_app_react/assets/78752342/b4f9ad3b-6f90-4761-85f5-777951ab1c01">
 
 <img width="960" alt="image" src="https://github.com/aditimahabole/products_app_react/assets/78752342/182a28b7-6366-40ae-ad04-73864a4c5ed5">
